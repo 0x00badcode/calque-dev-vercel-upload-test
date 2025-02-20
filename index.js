@@ -5,6 +5,5 @@ const App = () => {
     return <h1>Hello World</h1>;
 };
 
-// React 18 update
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
